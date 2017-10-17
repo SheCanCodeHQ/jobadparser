@@ -25,4 +25,4 @@ Wow, that's a lot of work! Well, this is the perfect segue into:
 This project would not become real if not for the help of milions (one can dream) of contributors.
 Some parts are quite straightforward and will be perfect to start on the project, some parts are more fuzzy and we are especially happy to welcome anyone who would like to run some intelligence in our step 3 from the plan above.
 
-I'll try and create issues for any straightforward part, and feel free to create issues for any part you'd like to work on. Or just send your pull requests. All code should ideally be reviewed.
+Feel free to assign yourself any issue tagged [help wanted](https://github.com/SheCanCodeHQ/jobadparser/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) or create issues for any part you'd like to work on.
